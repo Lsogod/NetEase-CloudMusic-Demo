@@ -99,7 +99,11 @@
        this.showHistory = false;
      },
      goPhone(){
+<<<<<<< HEAD
       window.location.href="http://m.tafleo.top"
+=======
+      window.location.href="http://phone.tafleo.top"
+>>>>>>> abc7e501e87cd7847c0a398950eb80ef431fd8e1
      }
    },
 
