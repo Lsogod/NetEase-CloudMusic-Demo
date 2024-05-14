@@ -118,10 +118,7 @@ dd {
   align-items: center;
   width: 580px;
   padding-left: 10px;
-<<<<<<< HEAD
   cursor: pointer;
-=======
->>>>>>> abc7e501e87cd7847c0a398950eb80ef431fd8e1
 }
 
 .song_list li:nth-child(odd) {
@@ -238,10 +235,7 @@ dd {
   padding-left: 55px;
   position: relative;
   margin-bottom: 20px;
-<<<<<<< HEAD
   cursor: pointer;
-=======
->>>>>>> abc7e501e87cd7847c0a398950eb80ef431fd8e1
 }
 
 .comment_wrapper dt {
@@ -382,12 +376,7 @@ dd {
 .title{
   text-align: center;
   margin-top: 50px;
-<<<<<<< HEAD
   color: #666;
   font-size: 18px;
-=======
-  color: #ccc;
-  font-size: 15px;
->>>>>>> abc7e501e87cd7847c0a398950eb80ef431fd8e1
   cursor: pointer;
 }
